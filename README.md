@@ -18,6 +18,8 @@
 
 ---
 
+## 📊 GitHub Stats
+
 <div>
   <img height="170" 
        src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=evertonsilvatps&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
