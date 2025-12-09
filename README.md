@@ -16,6 +16,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> 
 </div>
 
+
+<a href="www.linkedin.com/in/everton-silva-457a492b6" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+</a>
+
+
 ---
 
 ## 📊 GitHub Stats
