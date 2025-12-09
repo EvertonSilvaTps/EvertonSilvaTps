@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 Ferramentas e Tecnologias
+## 🚀 Tecnologias
 
 <div style="display: flex; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/> 
