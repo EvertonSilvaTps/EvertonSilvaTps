@@ -18,12 +18,6 @@
 
 ---
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=evertonsilvatps)
-
-
----
-
 ## 🔗 Social
 
 <a href="https://www.linkedin.com/in/everton-silva-457a492b6/" target="_blank">
