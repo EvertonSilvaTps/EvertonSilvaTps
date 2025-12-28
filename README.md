@@ -19,7 +19,7 @@
 ---
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=evertonsilvatps&show_icons=true&theme=tokyonight&v=1"/>
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=evertonsilvatps)
 </div>
 
 ---
