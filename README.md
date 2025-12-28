@@ -18,9 +18,9 @@
 
 ---
 
-<div>
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=evertonsilvatps)
-</div>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=evertonsilvatps)
+
 
 ---
 
