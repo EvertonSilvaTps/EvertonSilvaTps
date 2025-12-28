@@ -19,8 +19,7 @@
 ---
 
 <div>
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=evertonsilvatps&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=evertonsilvatps&show_icons=true&theme=tokyonight&v=1"/>
 </div>
 
 ---
